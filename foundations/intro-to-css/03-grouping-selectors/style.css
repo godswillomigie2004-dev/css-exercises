@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+.bob {background-color: black;
+color: white;}
+.bake {background-color: yellow;}
+.bob,
+.bake {font-size: 28px;
+font-family: Helvetica, 'Times New Roman', sans-serif;}
