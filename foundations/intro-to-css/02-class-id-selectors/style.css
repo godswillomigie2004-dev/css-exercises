@@ -1,1 +1,7 @@
-/* Add CSS Styling */
+.bob {font-family:verdana, "Dejavu sans", sans-serif;
+background-color: hsl(360, 100%, 80%)}
+#cake {color: rgb(0, 0, 255); font-size: 36px;}
+.cooler {font-size: 24px;}
+#big {background-color: hsl(120, 100%, 75%);
+font-size: 24px; 
+font-weight: bold;}
